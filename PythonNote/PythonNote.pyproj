@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>d4d9dd9d-0d89-41ef-8d6d-f673d42bcec0</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>For.py</StartupFile>
+    <StartupFile>ListDemo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="HelloWorld.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ListDemo.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="module1.py">
